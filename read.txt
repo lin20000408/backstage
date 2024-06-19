@@ -1,0 +1,20 @@
+# 期中專題：服飾電商後臺
+
+## 環境設定
+
+1. [加入資料庫帳號密碼設定檔](https://github.com/DDK8612/mfee50-midterm-ddshop/issues/2)
+
+## 注意事項
+
+1. 變數命名不要太籠統
+2. 註解多打一點，盡量打清楚是在幹嘛的
+3. ID 統一大寫
+4. 變數的命名：駝峰式命名 `Camel`、`camelCase`
+5. 檔案命名：`kebab-case.php`
+6. 資料表命名：`snake_case`
+
+.evn
+DATABASE_HOST=midterm.mysql.database.azure.com
+DATABASE_USERNAME=mfee50
+DATABASE_PASSWORD=MFDD50-4
+DATABASE_NAME=midterm
